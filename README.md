@@ -4,7 +4,7 @@ This repository contains the device-specific native side of
 [Root My Galaxy](https://github.com/BuSung-dev/Root-My-Galaxy):
 
 - exact firmware profiles and offsets;
-- the app-domain CVE-2026-43499 exploit source and compiled payload;
+- the app-domain CVE-2026-43499 vulnerability source and compiled payload;
 - the app bootstrap helper source;
 - the verified KernelSU late-load build artifacts;
 - the support feed consumed by the application.
@@ -94,3 +94,6 @@ The SM-A536E GZG3 device validation is in
 [`docs/SM-A536E-A536EXXSNGZG3.md`](docs/SM-A536E-A536EXXSNGZG3.md).
 
 Use only on devices you own or are explicitly authorized to test.
+
+
+Permitted for school use and for education purposes
